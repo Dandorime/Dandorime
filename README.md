@@ -6,10 +6,9 @@ I'm a passionate **Front-End & Mobile Developer** specializing in building robus
 
 ## 🛠️ Tech Stack
 
-| Web           | Mobile        | Language    | Frameworks/Libraries |
-|---------------|--------------|-------------|----------------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | ![Ext JS](https://img.shields.io/badge/-Ext%20JS-0A50A1?logo=sencha&logoColor=white&style=flat-square) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) | ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square) |
+| Web           | Mobile        | Language    | Frameworks/Libraries  |
+|---------------|--------------|-------------|-----------------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) <br> ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square) <br> ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square) <br> ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=flat-square) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) | ![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white&style=flat-square) <br> ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square) |
 
 ---
 
@@ -31,7 +30,7 @@ I'm a passionate **Front-End & Mobile Developer** specializing in building robus
 
 | Process      | Tools Used                                                |
 |--------------|----------------------------------------------------------|
-| Design       | Figma, Zeplin, Adobe XD                                  |
+| Design       | Figma, Zeplin                                            |
 | Develop      | VSCode, WebStorm, Chrome DevTools                        |
 | Collaborate  | GitHub, Jira, Slack, Notion                              |
 | Test         | Jest, React Testing Library, Detox                       |
