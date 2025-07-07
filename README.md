@@ -14,8 +14,6 @@ I'm a passionate **Front-End & Mobile Developer** specializing in building robus
 
 ## ✨ About Me
 
-![Developer at work](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80)
-
 - 🚀 **Experience:**  
   I’ve contributed to a variety of enterprise and consumer projects, from web dashboards to mobile apps. Most of my projects are under NDA, but each has sharpened my skills in UI/UX, architecture, and delivering high-quality code.
 
@@ -25,8 +23,6 @@ I'm a passionate **Front-End & Mobile Developer** specializing in building robus
 ---
 
 ## 📈 My Workflow
-
-![Workflow](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80)
 
 | Process      | Tools Used                                                |
 |--------------|----------------------------------------------------------|
@@ -48,5 +44,3 @@ I'm a passionate **Front-End & Mobile Developer** specializing in building robus
 ## 📫 Let’s Connect!
 
 Feel free to reach out for collaboration, consulting, or just a chat about tech!
-
-![Contact](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80)
